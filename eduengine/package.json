@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A combination of knowledge base and customized search engine.",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +17,7 @@
   },
   "homepage": "https://github.com/OyePuru/eduengine#readme",
   "dependencies": {
+    "ejs": "^3.1.8",
     "express": "^4.18.2"
   }
 }
