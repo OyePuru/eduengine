@@ -1,0 +1,23 @@
+{
+  "name": "eduengine",
+  "version": "1.0.0",
+  "description": "A combination of knowledge base and customized search engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OyePuru/eduengine.git"
+  },
+  "author": "Purushottam Mandal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OyePuru/eduengine/issues"
+  },
+  "homepage": "https://github.com/OyePuru/eduengine#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
